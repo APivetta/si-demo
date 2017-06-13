@@ -1,0 +1,17 @@
+{
+  "name": "si-demo",
+  "version": "1.0.0",
+  "description": "SI TP2 demo: reddit mood",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "lodash.zipobject": "^4.1.3",
+    "q": "^1.5.0",
+    "request": "^2.81.0",
+    "semaphore": "^1.0.5"
+  }
+}
